@@ -43,6 +43,10 @@ footer {
   align-items: center;
 }
 
+a {
+  color: white;
+}
+
 /* Controls */
 .search {
   display: flex;
