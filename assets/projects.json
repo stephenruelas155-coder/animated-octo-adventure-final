@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Steve's Car Rentals",
+        "type": "Store",
+        "image": "car.png",
+        "link": "https://stephenruelas155-coder.github.io/jubilant-enigma-somthing/",
+        "repo": "https://github.com/stephenruelas155-coder/jubilant-enigma-somthing"
+    },
+
+    {
+        "name": "Card Matching Game",
+        "type": "Game",
+        "image": "game.png",
+        "link": "https://stephenruelas155-coder.github.io/didactic-octo-parakeet/",
+        "repo": "https://github.com/stephenruelas155-coder/shiny-doodle"
+    },
+
+    {
+        "name": "Keyboard Shortcuts Finder",
+        "type": "Information",
+        "image": "shortcut.png",
+        "link": "https://stephenruelas155-coder.github.io/curly-telegram/",
+        "repo": "https://github.com/stephenruelas155-coder/curly-telegram"
+    }
+
+]

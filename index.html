@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Stephen's portfolio</title>
+        <link rel="stylesheet" href="styles/style.css">
+    </head>
+    <body>
+         <header>
+            <nav class="navbar navbar-dark bg-dark px-3">
+        <div class="container">
+            <h1>Welcome Stephen's portfolio</h1>
+                <h2>You can use this website to look thorugh my past projects</h2>
+        </div>
+        </nav>
+    </header>
+      <section id="projects">
+
+        <div class="container">
+    <div class="search">
+      <input type="text" id="searchInput" placeholder="Search projects">
+
+      <select id="typeFilter">
+        <option value="all">All Types</option>
+        <option value="Store">Store</option>
+        <option value="Game">Game</option>
+        <option value="Information">Information</option>
+      </select>
+    </div>
+        </div>
+        <div class="grid" id="projectGrid"></div>
+
+        <script src="scripts/script.js"></script>
+
+    </body>
+</html>
